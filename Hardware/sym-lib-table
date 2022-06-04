@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "UBGDownloader-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/UBGDownloader-eagle-import.kicad_sym")(options "")(descr ""))
+)

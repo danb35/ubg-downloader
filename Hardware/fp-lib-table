@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "UBGDownloader")(type "KiCad")(uri "$(KIPRJMOD)/UBGDownloader.pretty")(options "")(descr ""))
+)
